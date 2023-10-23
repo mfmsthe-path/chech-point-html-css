@@ -1,0 +1,84 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/51/28/a1/5128a106eaf08b80973433791fa06add.jpg);
+    background-size: cover;
+
+    font-family:'Roboto','Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content:flex-end;
+    text-align:right;
+    justify-content:right;
+    margin: 5px;
+
+}
+
+li{
+display: inline;
+justify-content:flex-end;
+text-align:right;
+justify-content:right;
+margin: 16px;
+}
+li a{
+    text-decoration: none;
+}
+.presentation{
+color:white;
+text-align: center;
+justify-content: center;
+
+}
+.presentation a{
+
+    color: rgb(64, 0, 255);
+}
+.presentation h2{
+    color: rgb(197, 182, 255);
+font-family: 'roboto';
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.sections{
+    
+    text-align: center;
+    justify-content: center;
+    font-family: 'roboto';
+    color: rgb(197, 182, 255);
+
+}
+.video{
+text-align: center;
+justify-content: center;
+
+}
+.annonce{
+color: white;
+font-family: 'Roboto';
+
+}
+.formulaire{
+
+    color:blue;
+    font-family: 'Roboto';
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align-last: right;
+
+}
